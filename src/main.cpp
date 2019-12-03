@@ -9,6 +9,7 @@ int main() {
 	cout << x << endl;
 	independentMethod(x);
 	cout << x << endl;
+    cout << "Hello" << endl;
 	Project1 p;
 	p.foo(x);
 	cout << x << endl;
